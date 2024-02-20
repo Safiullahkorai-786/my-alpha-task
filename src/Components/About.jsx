@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "https://pixabay.com/photos/mountains-dawn-forest-fog-twilight-7427623/";
+import image from "../images/mosaic.svg";
 
 const imageAltText = "Beautiful forest";
 
