@@ -27,7 +27,7 @@ const siteProps = {
   name: "Safiullah Korai",
   title: "Software Engineer, Web Designer & Content Creator",
   email: "safiullah.korai@studentambassadors.com",
-  gitHub: "Safiullahkorai",
+  gitHub: "Safiullahkorai-786",
   instagram: "Safiullahkorai21",
   linkedIn: "safiullah-korai",
   medium: "",

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "https://pixabay.com/photos/field-trees-nature-sunset-4452538/";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "field tress nature";
 
 /**
  * Project list
